@@ -1,2 +1,2 @@
-print('hello World di github awikwokwokwokwok')
+print('hello World')
 print('fitur 2')
